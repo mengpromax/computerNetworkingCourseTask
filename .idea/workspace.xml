@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="computerNetworkingFinalTask:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dba3d1a0-4136-432c-88f8-9a8a99bc1f43" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Code\Utils\apache-maven-3.6.1\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Utils/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\Code\Utils\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RzboDguqRf8ki9g80eAPSlbBXh" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/webPage/error.html" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Code\Java\computerNetworkingFinalTask\webPage" />
+      <recent name="E:\Code\Java\computerNetworkingFinalTask\lib" />
+      <recent name="E:\Code\Java\computerNetworkingFinalTask" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Code\Java\computerNetworkingFinalTask\webPage\mailAgentWeb" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="WebServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WebServer" />
+      <module name="computerNetworkingFinalTask" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WebServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dba3d1a0-4136-432c-88f8-9a8a99bc1f43" name="Default Changelist" comment="" />
+      <created>1570673044420</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570673044420</updated>
+      <workItem from="1570673045700" duration="545000" />
+      <workItem from="1570775317304" duration="354000" />
+      <workItem from="1570782768890" duration="1941000" />
+      <workItem from="1572701197621" duration="650000" />
+      <workItem from="1573231834925" duration="34000" />
+      <workItem from="1573782735054" duration="149000" />
+      <workItem from="1573889176877" duration="740000" />
+      <workItem from="1573889935480" duration="2824000" />
+      <workItem from="1573893123579" duration="3618000" />
+      <workItem from="1573897289710" duration="1416000" />
+      <workItem from="1574001878752" duration="1629000" />
+      <workItem from="1574003628261" duration="1027000" />
+      <workItem from="1574036309787" duration="2926000" />
+      <workItem from="1574051922030" duration="8245000" />
+      <workItem from="1574064617857" duration="905000" />
+      <workItem from="1574066365994" duration="8392000" />
+      <workItem from="1574085857972" duration="3509000" />
+      <workItem from="1574123467735" duration="5314000" />
+      <workItem from="1574129164113" duration="2411000" />
+      <workItem from="1574131782312" duration="235000" />
+      <workItem from="1574132596985" duration="2039000" />
+      <workItem from="1574156280704" duration="271000" />
+      <workItem from="1574230381888" duration="634000" />
+      <workItem from="1574231150819" duration="7000" />
+      <workItem from="1574242222148" duration="13299000" />
+      <workItem from="1574259055235" duration="4000" />
+      <workItem from="1574301085295" duration="1472000" />
+      <workItem from="1574316022679" duration="1331000" />
+      <workItem from="1574319381122" duration="699000" />
+      <workItem from="1574412028337" duration="2778000" />
+      <workItem from="1574440514087" duration="1665000" />
+      <workItem from="1574572982112" duration="2411000" />
+      <workItem from="1574592254060" duration="11054000" />
+      <workItem from="1574642473501" duration="3283000" />
+      <workItem from="1574645947217" duration="569000" />
+      <workItem from="1574649949306" duration="185000" />
+      <workItem from="1574661743467" duration="599000" />
+      <workItem from="1574675482792" duration="657000" />
+      <workItem from="1575012486714" duration="609000" />
+      <workItem from="1575015526647" duration="546000" />
+      <workItem from="1575016369922" duration="41000" />
+      <workItem from="1575017154546" duration="1035000" />
+      <workItem from="1575018672991" duration="223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="245" key="com.intellij.ide.util.TipDialog" timestamp="1575102963852">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="457" y="245" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1575102963852" />
+  </component>
+</project>

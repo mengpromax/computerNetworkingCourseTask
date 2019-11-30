@@ -1,0 +1,8 @@
+[万恶之原]-服务----MailAgentService----启动完毕！
+[万恶之原]-Web服务器已经启动完毕!
+[万恶之原]-web服务器接收到来自IP:/0:0:0:0:0:0:0:1的请求!
+[万恶之原]-web服务器接收到来自IP:/0:0:0:0:0:0:0:1的请求!
+[万恶之原]-web服务器收到的http报文首部：GET /index.html HTTP/1.1!
+[万恶之原]-web服务器收到的http报文首部：GET /image/code41203.jpg HTTP/1.1!
+[万恶之原]-web服务器接收到来自IP:/0:0:0:0:0:0:0:1的请求!
+[万恶之原]-web服务器收到的http报文首部：GET /favicon.ico HTTP/1.1!
